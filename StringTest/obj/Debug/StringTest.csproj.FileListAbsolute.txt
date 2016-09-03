@@ -1,0 +1,9 @@
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\bin\Debug\StringTest.exe.config
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\bin\Debug\StringTest.exe
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\bin\Debug\StringTest.pdb
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\obj\Debug\StringTest.csprojResolveAssemblyReference.cache
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\obj\Debug\StringTest.exe
+c:\users\bhagirath.patel\documents\visual studio 2013\Projects\StringTest\StringTest\obj\Debug\StringTest.pdb
+C:\Users\bhagirath.patel\Documents\GitHub\StringTest\StringTest\bin\Debug\StringTest.exe.config
+C:\Users\bhagirath.patel\Documents\GitHub\StringTest\StringTest\obj\Debug\StringTest.exe
+C:\Users\bhagirath.patel\Documents\GitHub\StringTest\StringTest\obj\Debug\StringTest.pdb
